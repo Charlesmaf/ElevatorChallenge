@@ -1,0 +1,11 @@
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Mingas\source\repos\Elevator Challenge\Application\obj\Debug\net7.0\ref\Application.dll

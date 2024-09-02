@@ -1,0 +1,20 @@
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.AssemblyInfoInputs.cache
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.AssemblyInfo.cs
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Elevator Challenge.exe
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Elevator Challenge.deps.json
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Elevator Challenge.runtimeconfig.json
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Elevator Challenge.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Elevator Challenge.pdb
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Application.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Application.pdb
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.csproj.AssemblyReference.cache
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator.122DEF50.Up2Date
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\refint\Elevator Challenge.dll
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.pdb
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\Elevator Challenge.genruntimeconfig.cache
+C:\Users\Mingas\source\repos\Elevator Challenge\Elevator Challenge\obj\Debug\net7.0\ref\Elevator Challenge.dll
